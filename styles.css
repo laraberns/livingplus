@@ -167,7 +167,7 @@ body {
 }
 
 .download{
-    margin: 2em;
+    margin: 1em;
 }
 
 @media screen and (max-width: 768px) {
@@ -195,7 +195,7 @@ body {
     }
 
     .secundario__imagem {
-        width: 50vw;
+        width: 80vw;
     }
 
     .dispositivos__lista {
@@ -203,7 +203,7 @@ body {
     }
 
     .dispositivos__titulo {
-        margin-top: 2em;
+        margin: 1em;
     }
 
     .rodape__lista {
@@ -212,5 +212,10 @@ body {
 
     .container__descricao{
         margin: 2em 2em;
+    }
+
+    .rodape__logo{
+        width: 50%;
+        margin-top: 1em;
     }
 }
